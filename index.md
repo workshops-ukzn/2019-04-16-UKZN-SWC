@@ -2,18 +2,18 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "University of Fort Hare - Alice Campus"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "TBC"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "University of Fort Hare, Alice Campus"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "za"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "-32.7891356,26.7897755"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "18 - 20 July, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "12 - 14 November, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 - 16:30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2018-07-18      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2018-07-20        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Lactatia Motsuku", "Yae Olatoundji Gaba (Ulrich)", "Kemi Megbowon", "Gabriel Salubi"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+startdate: 2018-11-12      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2018-11-14        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Danielle Quin", "Kemi Megbowon", "Gabriel Salubi"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["TBC"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["WAwusi@ufh.ac.za"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: http://pad.software-carpentry.org/2018-07-18-UFH-Alice            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: http://pad.software-carpentry.org/2018-11-12-UFH-Alice            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
