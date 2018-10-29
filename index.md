@@ -1,19 +1,19 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "Durban University of Technology"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "TBC, Durban University of Technology"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "UKZN, Westville Campus"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "TBC, UKZN"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "za"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "-29.8536081,31.0039191"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "4 - 6 December, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+latlng: "-29.817215, 30.944556"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+humandate: "December, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "9:00 - 16:30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2018-12-04      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+startdate: 2018-12-05      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-12-06        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["TBC"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["TBC"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["anelda.vdwalt@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes: http://pad.software-carpentry.org/2018-12-04-DUT-SWC            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+email: ["tirok@ukzn.ac.za"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+collaborative_notes: http://pad.software-carpentry.org/2018-12-05-UKZN-WVL            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -145,9 +145,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <li>Accessible restrooms are available.</li>
 </ul>
 <p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
+  Large-print handouts are available if needed by notifying the
+  organizers in advance. If we can help making learning easier for
   you (e.g. sign-language interpreters, lactation facilities) please
   get in touch (using contact details below) and we will
   attempt to provide them.
@@ -178,17 +177,18 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   for more information.
 </p>
 
-<p><strong>Registration:</strong> Please complete the online registration form at <a href="https://goo.gl/forms/DSC1PBNiXZW52hA23">https://goo.gl/forms/DSC1PBNiXZW52hA23</a>. Limited space is available. The workshop is free to attend but a R500 no-show fee will be payable by registered participants who does not show up to the workshop without giving the workshop organisers at least 1 week notice.
+<p><strong>Registration:</strong> Please complete the online registration form at <a href="">
+</a>. Limited space is available. The workshop is free to attend but a R500 no-show fee will be payable by registered participants who does not show up to the workshop without giving the workshop organisers at least 1 week notice.
   </p>
 
 <hr/>
 
-{% comment %} 
- SURVEYS - DO NOT EDIT SURVEY LINKS 
+{% comment %}
+ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
 
-{% if page.carpentry == "swc" %} 
+{% if page.carpentry == "swc" %}
 <p>Please be sure to complete these surveys before and after the workshop.</p>
 <p><a href="{{ site.swc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
 <p><a href="{{ site.swc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
@@ -431,7 +431,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
         <a href="http://sourceforge.net/projects/git-osx-installer/files/">this list</a>.
         Because this installer is not signed by the developer, you may have to
         right click (control click) on the .pkg file, click Open, and click
-        Open on the pop up window. 
+        Open on the pop up window.
         After installing Git, there will not be anything in your <code>/Applications</code> folder,
         as Git is a command line program.
         <strong>For older versions of OS X (10.5-10.8)</strong> use the
