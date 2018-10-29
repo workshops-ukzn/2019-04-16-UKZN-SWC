@@ -7,7 +7,7 @@ country: "za"      # lowercase two-letter ISO country code such as "fr" (see htt
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "-29.817215, 30.944556"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "December, 2018"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 - 16:30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "08:30 - 16:30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-12-05      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-12-06        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["TBC"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
@@ -177,8 +177,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   for more information.
 </p>
 
-<p><strong>Registration:</strong> Please complete the online registration form at <a href="">
-</a>. Limited space is available. The workshop is free to attend but a R500 no-show fee will be payable by registered participants who does not show up to the workshop without giving the workshop organisers at least 1 week notice.
+<p><strong>Registration:</strong> Please complete the online registration form at <a href="https://goo.gl/forms/OIxPIagON8kgbHED3">https://goo.gl/forms/OIxPIagON8kgbHED3</a>. Limited space is available. The workshop is free to attend but a R500 no-show fee will be payable by registered participants who does not show up to the workshop without giving the workshop organisers at least 1 week notice.
   </p>
 
 <hr/>
