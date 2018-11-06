@@ -19,6 +19,20 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
+<!--
+<div>
+<table>
+	<tr>
+  <td align="center" style="background-color:white" style="width:33.3%"></td>
+	<td align="center" style="background-color:white" style="width:33.3%"><a href="https://quantum.ukzn.ac.za"><img style="display:block;" height="33.3%" src="./fig/BigDataAndInformaticsLogo.png" alt="Big Data and Informatics Research Flagship"></a></td>
+  <td align="center" style="background-color:white" style="width:33.3%"></td>
+	</tr>
+</table>
+</div>
+-->
+
+
+
 {% comment %}
   HEADER
 
