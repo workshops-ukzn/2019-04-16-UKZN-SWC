@@ -1,8 +1,8 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "University of KwaZulu-Natal, Westville Campus"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Seminar Room 5, Govan Mbeki, Research Office, UKZN Westville Campus"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "UKZN, Westville Campus"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "Seminar Room 5, Govan Mbeki, UKZN Westville Campus"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "za"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "-29.817262, 30.943994"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
