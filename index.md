@@ -5,7 +5,7 @@ venue: "UKZN, Westville Campus"        # brief name of host site without address
 address: "Seminar Room 5, Govan Mbeki, Research Office, Westville Campus"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "za"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "-29.817262, 30.943994"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "-29.818203, 30.945906"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "20 & 21 May, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "08:30 - 16:30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-05-20      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
