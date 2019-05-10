@@ -196,7 +196,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   for more information.
 </p>
 
-<p><strong>Registration:</strong> Please complete the online registration form at <a href="https://forms.gle/kNK7trmJF9GETwtk7">https://forms.gle/kNK7trmJF9GETwtk7</a>. Limited space is available. The workshop is free to attend but a R500 no-show fee will be payable by a registered participant who does not show up to the workshop without giving the workshop organisers at least 5 days notice.
+<p><strong>Registration:</strong> Please complete the online registration form at <a href="https://forms.gle/pdx2ozfgzLG2W38x5">https://forms.gle/pdx2ozfgzLG2W38x5</a>. Limited space is available. The workshop is free to attend but a R500 no-show fee will be payable by a registered participant who does not show up to the workshop without giving the workshop organisers at least 5 days notice.
   </p>
 
 <hr/>
